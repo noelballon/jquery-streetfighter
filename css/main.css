@@ -19,6 +19,10 @@ body {
   flex-direction: row;
 }
 
+.text-intro {
+  margin-top: 60px;
+}
+
 .ryu, .hulk-ryu {
     width: 659px;
     height: 494px;
